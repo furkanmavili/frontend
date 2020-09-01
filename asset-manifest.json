@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/frontend/static/css/main.e0bf9382.chunk.css",
-    "main.js": "/frontend/static/js/main.3415b3ec.chunk.js",
-    "main.js.map": "/frontend/static/js/main.3415b3ec.chunk.js.map",
+    "main.js": "/frontend/static/js/main.7102c752.chunk.js",
+    "main.js.map": "/frontend/static/js/main.7102c752.chunk.js.map",
     "runtime-main.js": "/frontend/static/js/runtime-main.12e52466.js",
     "runtime-main.js.map": "/frontend/static/js/runtime-main.12e52466.js.map",
-    "static/js/2.435f9d3b.chunk.js": "/frontend/static/js/2.435f9d3b.chunk.js",
-    "static/js/2.435f9d3b.chunk.js.map": "/frontend/static/js/2.435f9d3b.chunk.js.map",
+    "static/js/2.06c1d999.chunk.js": "/frontend/static/js/2.06c1d999.chunk.js",
+    "static/js/2.06c1d999.chunk.js.map": "/frontend/static/js/2.06c1d999.chunk.js.map",
     "index.html": "/frontend/index.html",
-    "precache-manifest.617f46483a8fd167231ddb0fb26f65bf.js": "/frontend/precache-manifest.617f46483a8fd167231ddb0fb26f65bf.js",
+    "precache-manifest.7da739b4a99e232fe54cb84262c25086.js": "/frontend/precache-manifest.7da739b4a99e232fe54cb84262c25086.js",
     "service-worker.js": "/frontend/service-worker.js",
     "static/css/main.e0bf9382.chunk.css.map": "/frontend/static/css/main.e0bf9382.chunk.css.map",
-    "static/js/2.435f9d3b.chunk.js.LICENSE.txt": "/frontend/static/js/2.435f9d3b.chunk.js.LICENSE.txt",
+    "static/js/2.06c1d999.chunk.js.LICENSE.txt": "/frontend/static/js/2.06c1d999.chunk.js.LICENSE.txt",
     "static/media/android_big.png": "/frontend/static/media/android_big.8f2fa0d6.png",
     "static/media/android_small.png": "/frontend/static/media/android_small.a1722844.png",
     "static/media/atom_big.png": "/frontend/static/media/atom_big.c9ac9d5b.png",
@@ -19,14 +19,16 @@
     "static/media/hero.svg": "/frontend/static/media/hero.afdfc8fd.svg",
     "static/media/intelij_big.png": "/frontend/static/media/intelij_big.aa14f9c8.png",
     "static/media/intelij_small.png": "/frontend/static/media/intelij_small.73ce7efd.png",
+    "static/media/like.svg": "/frontend/static/media/like.cba4f228.svg",
     "static/media/pycharm_big.png": "/frontend/static/media/pycharm_big.4f06afc0.png",
     "static/media/pycharm_small.png": "/frontend/static/media/pycharm_small.b05c5492.png",
+    "static/media/tag.svg": "/frontend/static/media/tag.7fa671d5.svg",
     "static/media/vscode_small.png": "/frontend/static/media/vscode_small.a1f0d8b3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.12e52466.js",
-    "static/js/2.435f9d3b.chunk.js",
+    "static/js/2.06c1d999.chunk.js",
     "static/css/main.e0bf9382.chunk.css",
-    "static/js/main.3415b3ec.chunk.js"
+    "static/js/main.7102c752.chunk.js"
   ]
 }
